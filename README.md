@@ -1,3 +1,4 @@
+``` python
 import numpy as np
 
 # Define the size of the input image and filter
